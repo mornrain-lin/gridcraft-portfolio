@@ -89,7 +89,7 @@ WordPress 后台的主题截图要求尺寸为 **1200 × 900 像素**（PNG 格�
 ### 本地开发
 
 ```bash
-git clone https://github.com/mornrain/gridcraft-portfolio.git
+git clone https://github.com/mornrain-lin/gridcraft-portfolio.git
 cd gridcraft-portfolio
 php -l functions.php   # 语法自检
 ```
