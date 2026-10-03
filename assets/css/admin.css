@@ -1,0 +1,38 @@
+/**
+ * Gridcraft Portfolio 后台 Meta 框样式。
+ *
+ * 只在文章编辑页加载，不影响前台。
+ */
+
+.gridcraft-meta-grid {
+	display: grid;
+	gap: 4px;
+}
+
+.gridcraft-meta-field {
+	margin: 0 0 16px;
+}
+
+.gridcraft-meta-field label {
+	display: block;
+	margin-bottom: 4px;
+}
+
+.gridcraft-meta-field .description {
+	display: block;
+	margin-top: 4px;
+	color: #646970;
+	font-size: 12px;
+	font-style: normal;
+}
+
+.gridcraft-meta-field--checkbox label {
+	display: flex;
+	align-items: center;
+	gap: 6px;
+	font-weight: 600;
+}
+
+.gridcraft-meta-field--checkbox input {
+	margin: 0;
+}
